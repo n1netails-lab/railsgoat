@@ -18,7 +18,7 @@ gem "responders"
 gem "ruby-prof"
 gem "sassc-rails"
 gem "simplecov", require: false, group: :test
-gem "sqlite3", "~> 2.0"
+gem "sqlite3", "~> 2.9"
 gem "turbolinks"
 
 # Asset pipeline
